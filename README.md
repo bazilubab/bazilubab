@@ -30,7 +30,7 @@ I believe in continuous improvement, effective time management, and writing clea
     <td width="50%" valign="top">
       <h3>💼 Experience & Exposure</h3>
       <ul>
-        <li><b>Sofex Solutions (2-Month Internship):</b> Greatly enhanced my practical knowledge and professional skills in software development.</li>
+        <li><b>Safex Solutions (2-Month Internship):</b> Greatly enhanced my practical knowledge and professional skills in software development.</li>
         <li><b>iVolve Technologies (Exploration Visit):</b> Gained valuable industry exposure, where I learned about software development workflows, project collaboration, and professional practices.</li>
       </ul>
     </td>
