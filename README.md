@@ -9,6 +9,10 @@
   <a href="mailto:bazilubab1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/bazilubab/bazilubab/raw/refs/heads/main/BAZIL_UBAB_RESUME.docx"><img src="https://img.shields.io/badge/📄_Download_My_Resume-2EA043?style=for-the-badge" alt="Download Resume"></a>
+</p>
+
 <br>
 
 ### 👨‍💻 About Me
